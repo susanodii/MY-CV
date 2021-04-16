@@ -1,0 +1,22 @@
+ul{
+    font-weight: normal;
+}
+p{
+    font-weight:normal;
+}
+h1{
+    text-align: center;
+}
+@media only screen and {max-width: 1010px;
+    .h1{
+        width: 100%;
+        overflow: inherit;
+        color: blue;
+    }
+    .h2{
+        width: 100%%;
+        overflow: inherit;
+        color: blue;
+
+    }
+}
